@@ -1,11 +1,18 @@
-# dcoe
-OKARNG DCOE wiki
+# OKARNG DCOE Team Wiki?
 
-This is a work in progress
+
+> This is a work in progress
 
 git learn't https://github.com/tiimgreen/github-cheat-sheet
 
-> subtext
+## Sections
+
+### [Preparation](https://github.com/sakya02/dcoe/tree/master/1.Preparation)
+### [Identification](https://github.com/sakya02/dcoe/tree/master/2.Identification)
+### [Containment](https://github.com/sakya02/dcoe/tree/master/3.Containment)
+### [Eradication](https://github.com/sakya02/dcoe/tree/master/4.Eradication)
+### [Recovery](https://github.com/sakya02/dcoe/tree/master/5.Recovery)
+
 
 ```
 this
