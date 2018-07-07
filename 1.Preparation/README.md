@@ -1,7 +1,9 @@
-# Training Resources
+# Preparation
+> The baseline actions needed to ensure proper environmental hygiene. Many of these steps occur as a part of the organization's security operations apparatus and represent the ongoing efforts to make the environment defensible and investigable.
+Ref. [SANS Sec504](https://www.sans.org/course/hacker-techniques-exploits-incident-handling)
 
-## CTF
-
+## Training
+### CTF
 |Site|Description|
 |---|---|
 |[Overthewire](http://overthewire.org/wargames/)|The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.|
@@ -18,9 +20,6 @@
 |[]()||
 
 
-## Learning Resources
-
-Coming soon
 
 ## Jump Bag
 
