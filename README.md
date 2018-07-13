@@ -9,10 +9,10 @@ git learn't https://github.com/tiimgreen/github-cheat-sheet
 
 ### [Preparation](https://github.com/sakya02/dcoe/tree/master/1.Preparation)
 ### [Identification](https://github.com/sakya02/dcoe/tree/master/2.Identification)
-### [Containment](https://github.com/sakya02/dcoe/tree/master/3.Containment)
-### [Eradication](https://github.com/sakya02/dcoe/tree/master/4.Eradication)
-### [Recovery](https://github.com/sakya02/dcoe/tree/master/5.Recovery)
-
+### [Defend](https://github.com/sakya02/dcoe/tree/master/3.Defend)
+### [Detect](https://github.com/sakya02/dcoe/tree/master/4.Detect)
+### [Analysis](https://github.com/sakya02/dcoe/tree/master/5.Analysis)
+### [Remediate](https://github.com/sakya02/dcoe/tree/master/6.Remediate)
 
 ```
 this
