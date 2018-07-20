@@ -3,8 +3,9 @@
 
 > This is a work in progress
 
-git learn't https://github.com/tiimgreen/github-cheat-sheet
-
+git learn't
+* https://github.com/tiimgreen/github-cheat-sheet
+* https://git-scm.com/docs
 ## Sections
 
 ### [Preparation](https://github.com/sakya02/dcoe/tree/master/1.Preparation)
