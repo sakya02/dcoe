@@ -1,6 +1,6 @@
 ## System Information
 
-```
+```sh
 $ uname -a
 
 $ uptime
@@ -9,13 +9,13 @@ $ timedatectl
 
 $ mount
 
-echo $PATH
+$ echo $PATH
 
 ```
 
 ## User Information
 
-```
+```sh
 #logged in users
 $ w
 
@@ -58,7 +58,7 @@ $ cat /root/.bash_history
 > net-tools are obsolete and are replaced by the iproute2 package, net-tools versions are still included as many distros still use them. https://en.wikipedia.org/wiki/Iproute2
 
 **Iproute2 Tools**
-```
+```sh
 #network interfaces
 $ ip addr
 
@@ -83,7 +83,7 @@ $ lsof -i
 ```
 
 **net-tools**
-```
+```sh
 #network interfaces
 $ ifconfig
 

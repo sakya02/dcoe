@@ -1,6 +1,6 @@
 ## System Information
 
-```
+```batch
 #obvious
 C:\> echo %DATE% %TIME%
 
@@ -113,7 +113,7 @@ C:\> wmic netuse get name,username,connectiontype,localname
 
 ## Service information
 
-```
+```posh
 
 C:\> tasklist
 
@@ -183,7 +183,7 @@ C:\> dir "%SystemDrive%\Documents and Settings\All Users\Start Menu\Programs\Sta
 
 C:\> dir "%USERPROFILE%\Start Menu\Programs\startup
 
-C:\> 
+C:\>
 
 
 ```
