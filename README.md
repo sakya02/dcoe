@@ -6,6 +6,7 @@
 git learn't
 * https://github.com/tiimgreen/github-cheat-sheet
 * https://git-scm.com/docs
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 ## Sections
 
 ### [Preparation](https://github.com/sakya02/dcoe/tree/master/1.Preparation)
