@@ -3,6 +3,7 @@
 ### Event ID 4624: An account was succuessfully logged on
 
 |Logon Type|Description|
+|---|---|
 |Interactive (2)|Intended for users who are interactively using the machine, such as a user being logged on by a terminal server, remote shell, or similar process. Logon at keyboard and screen of system.|
 |Network (3)|Intended for high-performance servers to authenticate clear text passwords. LogonUser does not cache credentials for this logon type. (i.e. connection to shared folder on the computer from elsewhere on network)|
 |Batch (4)|Intended for batch servers, where processes can be executed on behalf of a user without their direct intervention; or for higher performance servers that process many clear-text authentication attempts at a time, such as mail or web server. LogonUser does not cache credentias for this logon type.|
