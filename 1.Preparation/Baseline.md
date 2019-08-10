@@ -35,5 +35,7 @@ https://chocolatey.org/install
 |[]()||
 
 #### Useful Links
+
 |Link|Description|
+|---|---|
 |[Hybrid Analysis](https://www.hybrid-analysis.com/)|Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.|
