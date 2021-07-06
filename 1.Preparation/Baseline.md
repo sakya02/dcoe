@@ -39,3 +39,4 @@ https://chocolatey.org/install
 |Link|Description|
 |---|---|
 |[Hybrid Analysis](https://www.hybrid-analysis.com/)|Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.|
+|[kahusecurity](http://www.kahusecurity.com/tools.html)|Various tools related to digital forensics, reverse engineering, and malware analysis.|
