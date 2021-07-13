@@ -1,8 +1,8 @@
 # DCOE Baseline hardening guide (WIP)
 
-Follow the recommendations in this article [Penetration Testers’ Guide to Windows 10 Privacy & Security](https://hackernoon.com/the-2017-pentester-guide-to-windows-10-privacy-security-cf734c510b8d) article if they apply.
+The following article provides good recommendations on hardening Win10. [Penetration Testers’ Guide to Windows 10 Privacy & Security](https://hackernoon.com/the-2017-pentester-guide-to-windows-10-privacy-security-cf734c510b8d)
 
-Be advised the article is a little outdated and some things may no longer be compatible with the latest version of windows or some recommendations could've have changed in light of recent security incidents. DO YOUR RESEARCH AND HAVE GOOD BACKUPS!
+Be advised the article is a little outdated and some things may no longer be compatible with the latest version of windows or some recommendations could've changed in light of recent security incidents. DO YOUR RESEARCH AND HAVE GOOD BACKUPS!
 
 ## Further recommendations
 
