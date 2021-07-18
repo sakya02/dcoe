@@ -46,7 +46,7 @@ C:\> wmic useraccount list
 
 C:\> wmic group list
 
-C:\> wmic netlogin get name,lastlogin,badpasswordcount
+C:\> wmic netlogin get name,lastlogon,badpasswordcount
 
 C:\> wmic netclient list brief
 
